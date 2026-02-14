@@ -1,0 +1,34 @@
+id,text,label,label_text,meta_doc_drugs,meta_prev_context,span_offsets,source_file
+LIPITOR.86_0,"headaches, pain in throat , tingling in side of face, severe bouts of anxiety and depression-loss of reason to live!
+nausea.
+does lower my cholestoral.
+",1,Related,LIPITOR.86,,"0, 152",LIPITOR.86.txt
+LIPITOR.92_0,"Muscle aches and weakness in neck, arms, shoulders, upper back, legs.
+",1,Related,Lipitor,,"0, 70",LIPITOR.92.txt
+LIPITOR.92_1,"Severe pain in left foot and third and fourth toes.
+",1,Related,Lipitor,"Muscle aches and weakness in neck, arms, shoulders, upper back, legs.
+","70, 122",LIPITOR.92.txt
+LIPITOR.92_2,"Pain and weakness increased until I needed help dressing and combing my hair.
+",1,Related,Lipitor,"Severe pain in left foot and third and fourth toes.
+","122, 200",LIPITOR.92.txt
+LIPITOR.92_3,"I could not do daily activities such as pick up a cup of coffee or put on a seatbelt without significant pain.
+",1,Related,Lipitor,"Pain and weakness increased until I needed help dressing and combing my hair.
+","200, 311",LIPITOR.92.txt
+LIPITOR.92_4,"The ball of my left foot was so painful I could not put pressure on it when walking so I walked on the side of my foot.
+",1,Related,Lipitor,"I could not do daily activities such as pick up a cup of coffee or put on a seatbelt without significant pain.
+","311, 431",LIPITOR.92.txt
+LIPITOR.92_5,"Symptoms began 12 weeks after starting Lipitor.
+",0,Not-Related,Lipitor,"The ball of my left foot was so painful I could not put pressure on it when walking so I walked on the side of my foot.
+","431, 479",LIPITOR.92.txt
+LIPITOR.92_6,"I reported to my cardiologist and internist who both denied problems were related to Lipitor because my CPK was only mildly elevated (250).
+",0,Not-Related,Lipitor,"Symptoms began 12 weeks after starting Lipitor.
+","479, 619",LIPITOR.92.txt
+LIPITOR.92_7,"I also saw a podiatrist, chiropractor, and spine specialist with no relief.
+",0,Not-Related,Lipitor,"I reported to my cardiologist and internist who both denied problems were related to Lipitor because my CPK was only mildly elevated (250).
+","619, 695",LIPITOR.92.txt
+LIPITOR.92_8,"When it got so bad I could not take it anymore and did not care about my cholesterol I took myself off of Lipitor and got a 50% improvement after one week.
+",0,Not-Related,Lipitor,"I also saw a podiatrist, chiropractor, and spine specialist with no relief.
+","695, 851",LIPITOR.92.txt
+LIPITOR.92_9,"I then saw a neurologist who diagnosed me with statin induced myalgia.
+",0,Not-Related,Lipitor,"When it got so bad I could not take it anymore and did not care about my cholesterol I took myself off of Lipitor and got a 50% improvement after one week.
+","851, 922",LIPITOR.92.txt

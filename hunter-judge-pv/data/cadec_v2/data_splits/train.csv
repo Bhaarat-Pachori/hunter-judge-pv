@@ -1,0 +1,33 @@
+id,text,label,label_text,meta_doc_drugs,meta_prev_context,span_offsets,source_file
+LIPITOR.732_1,"Burning feet especially at night.
+",1,Related,Lipitor; lipitor,"Numbness started in left toe & went to right toe then went to all toes.
+","72, 106",LIPITOR.732.txt
+LIPITOR.515_8,"I'm going to stop taking it because of the muscle fatigue/cramping - hopefully this condition will reverse.
+",1,Related,Lipitor,"It doesn't seem as effective now.
+","530, 638",LIPITOR.515.txt
+LIPITOR.564_13,"Sad to read so many people are suffering from side effects of this but good to know I am not nuts and I am not alone.
+",0,Not-Related,Lipitor,"By the way I was only on it approx 4 months.
+","729, 847",LIPITOR.564.txt
+LIPITOR.546_17,"But now I know it was the Statin.
+",0,Not-Related,Aleve; Lipitor; Norvasc; Pravachol; Q10; Rhinocort; Tylenol PM; Zoloft,"I thought I was allergic to the alcohol.
+","959, 993",LIPITOR.546.txt
+LIPITOR.219_4,"I couldn't climb stairs or walk while shopping with my wife.
+",0,Not-Related,Lipitor,"I thought I was getting PAD.
+","191, 252",LIPITOR.219.txt
+LIPITOR.25_1,"I have had digestion problems since I have started taking this, my pancreas is very swollen.
+",1,Related,Lipitor; lipitor,"Lipitor did help lower my cholestrol, but has caused other health problems not listed in the side effects.
+","107, 200",LIPITOR.25.txt
+LIPITOR.842_11,"Doctor is PISSED-----I'M THRILLED !!!.
+",0,Not-Related,Lipitor; Tricor,"No fatigue, memory is back, knees still hurt, but hopefully, they rebound too.
+","731, 770",LIPITOR.842.txt
+LIPITOR.510_1,"Therefore, I'm switching to Zocor.
+",0,Not-Related,Zocor,"works fine, but Pfizer is now screwing the American public by denying access to the drug through legitimate Candian pharmacies.
+","128, 163",LIPITOR.510.txt
+ARTHROTEC.85_8,"Could not figure out why I was so sick.
+",1,Related,ARTHROTEC.85,"Only took it for 5 days with only one a day in the morning with food.
+","432, 472",ARTHROTEC.85.txt
+LIPITOR.254_0,"Initially minor muscle pain but thought it was due to my working out.
+",1,Related,lipitor,,"0, 70",LIPITOR.254.txt
+ARTHROTEC.126_9,"Was so sick after 2 days at the increased dose, I decided it just was not worth it.
+",1,Related,ARTHROTEC.126,"however I welcomed the knee pain back after suffering the side effects and booked an appointment with a knee surgeon!.
+","762, 846",ARTHROTEC.126.txt

@@ -1,0 +1,28 @@
+id,text,label,label_text,meta_doc_drugs,meta_prev_context,span_offsets,source_file
+LIPITOR.52_2,"The neurological damage I have suffered due to toxic levels of lipitor seems to be permanent.
+",1,Related,coenzyme Q10; lipitor,"Studies have noted patients with greatly incrased plasma statin levels (>134% and AUCs more than 400% ABOVE NORMAL) toxic levels indeed.
+","342, 436",LIPITOR.52.txt
+LIPITOR.785_1,"I do not smoke and have never smoked.
+",0,Not-Related,Lipitor,"I female, 5 feet 7 and a half inches tall, 117 lbs.
+","52, 90",LIPITOR.785.txt
+LIPITOR.546_3,"He switched to Pravachol 20mg.
+",0,Not-Related,Aleve; Lipitor; Norvasc; Pravachol; Q10; Rhinocort; Tylenol PM; Zoloft,"ago, I decided to tell my Dr I was having muscle pain and leg cramps.
+","128, 159",LIPITOR.546.txt
+ARTHROTEC.137_18,"It may not be important, but it MAY be> I cannot take, whether because of over-reaction, adverse reaction, allergy:",0,Not-Related,Aleve; Benedryl; Birth control pills; Codeine; Lyrica; Prednisone; corti-cortisones; cyclobenzoprene; darvon; demerol; hydrocodone; ibuprofen; morphine; naproxen sodium; opiate; percocette; prednisone; pseudoephedrine; sulfur drugs,"I seem to be more hormonally/chemically sensitive than a lot of people.
+","1667, 1782",ARTHROTEC.137.txt
+LIPITOR.196_6,"Have appointment to see doctor again next week.
+",0,Not-Related,lipiltor; lipitor,"My physical (6 days before starting the lipitor) was perfectly normal except for the cholestorol which had jumped from 175 to 220, primarily due to changed job/work conditions/diet/lack of exercise.
+","875, 923",LIPITOR.196.txt
+LIPITOR.634_0,"Cramping and weariness of the leg muscles.
+",1,Related,LIPITOR.634,,"0, 43",LIPITOR.634.txt
+VOLTAREN-XR.6_1,"Of course cautions have to be made.
+",0,Not-Related,VOLTAREN-XR.6,"Despite concerns I think it is worth to try this for the long tem.
+","67, 103",VOLTAREN-XR.6.txt
+LIPITOR.858_4,"Lipitor worked great lowering cholesterol but the side effects are not worth the benefit.
+",0,Not-Related,Lipitor,"Have stopped taking Lipitor and symptoms seem to be subsiding.
+","322, 412",LIPITOR.858.txt
+LIPITOR.273_10,"He suggested coenzymeQ10, 600 mg per day.
+",0,Not-Related,Lipitor; coenzymeQ10,"I went to a NY neurologist, then to a neuromuscular doctor who said it sounded like Lipitor, even though I had been off the Lipitor for almost 6 months.
+","1241, 1283",LIPITOR.273.txt
+LIPITOR.657_0,"Loss of Vison.
+",1,Related,LIPITOR.657,,"0, 15",LIPITOR.657.txt
