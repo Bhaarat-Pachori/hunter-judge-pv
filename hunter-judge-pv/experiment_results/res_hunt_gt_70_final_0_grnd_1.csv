@@ -1,0 +1,115 @@
+id,text,label,label_text,meta_doc_drugs,meta_prev_context,span_offsets,source_file,hunter_prob,final_pred,agent_reasoning
+LIPITOR.205_11,At 45 days, my facial paralysis is 99% gone, I wake rested, my back and hip pain are slowly improving and my overall mental wellbein.
+,1,Related,Lipitor,I started noticing improvement during the first 30 days.
+,1045, 1179,LIPITOR.205.txt,0.89880395,0,The text describes symptoms (facial paralysis, back/hip pain, poor mental well-being) that are improving or resolving, not new or worsening symptoms caused by Lipitor. It does not attribute these issues to the drug.
+LIPITOR.165_7,I am going to see the physician in a week and am going to mention the pains so I am curious as to her opinion.
+,1,Related,Mavik 1mg,I am off the drug for a self trial period to see if the pains diminish.
+,752, 863,LIPITOR.165.txt,0.8741683,0,The text mentions 'pains' but does not establish any causal link or temporal relationship between the pains and the drug 'Mavik 1mg'. It's a general statement about discussing symptoms with a physician.
+LIPITOR.954_7,Not hobbling around and can get out of bed without assistance.
+,0,Not-Related,Lipitor,Stopped taking it immediately (3 days ago) and already I can move my feet and ankles.
+,550, 613,LIPITOR.954.txt,0.7394369,0,The text describes an improvement in the patient's condition (not hobbling, getting out of bed without assistance), which is the opposite of an adverse drug event or side effect. It indicates the absence of negative symptoms.
+LIPITOR.363_6,The leg pain is gone, I have lots of energy and I can sleep again.
+,1,Related,Lipitor; lecithin granules; red yeast rice,Within 2 days of stopping the Lipitor, my symptoms began to subside.
+,319, 386,LIPITOR.363.txt,0.9570619,0,The text describes the resolution of leg pain and improvements in energy and sleep, which are positive outcomes or the absence of symptoms, not new adverse drug events.
+LIPITOR.764_2,Right knee always sore and swollen.
+,0,Not-Related,Chondroitin; Glucosamine; Lipitor; Lopid,I used to hop out of bed ready to go.
+,113, 149,LIPITOR.764.txt,0.87752414,0,The phrase 'always sore and swollen' suggests a chronic or pre-existing condition, rather than a new adverse event caused by the drugs. It could also be an indication for taking Chondroitin/Glucosamine.
+ARTHROTEC.12_2,Without this drug I was severly restricted and could only walk less than 100 meters.
+,0,Not-Related,ARTHROTEC.12,I am taking it only 1 time per day because of the possible side effects.
+,99, 184,ARTHROTEC.12.txt,0.981575,0,The text describes a pre-existing condition or the indication for which the drug is used, implying the drug alleviates this issue, rather than causing it as a side effect.
+LIPITOR.360_3,She was always exhausted, falling asleep all the time.
+,1,Related,Lipitor,She began getting very confused.
+,152, 207,LIPITOR.360.txt,0.9844833,0,The phrase 'She was always exhausted' strongly suggests a pre-existing condition, not a new symptom caused by the drug.
+LIPITOR.361_1,Doctors make me feel like I am crazy.
+,0,Not-Related,LIPITOR.361,Aching over my entire body, extreme fatigue, stiffness when getting up in the morning or getting up after being off my feet for awhile.
+,136, 174,LIPITOR.361.txt,0.83663136,0,The text describes a feeling attributed to interactions with 'Doctors', not a physiological or mental effect directly caused by the drug LIPITOR.361.
+LIPITOR.201_4,I have very high arches and have had a little tingling in my feet for years.
+,1,Related,Lipitor,But, my Doc put me on Aggrenox and 20mg of Lipitor.
+,252, 329,LIPITOR.201.txt,0.98001397,0,The tingling in the feet is explicitly stated as a pre-existing condition ("for years"), indicating it did not occur after or during the use of Lipitor.
+VOLTAREN.42_4,Pain was bad enough that I had trouble standing up from sitting position.
+,0,Not-Related,VOLTAREN.42,This drug was prescribed to help with severe knee pain while I wait for additional diagnostics and possibly surgery after 1/1 (due to high deductible on health insurance).
+,341, 415,VOLTAREN.42.txt,0.98962057,0,The drug VOLTAREN is commonly used to treat pain. The text describes pain, which is likely the indication for which the drug was taken, or a description of the underlying condition, rather than a side effect caused by the drug.
+LIPITOR.462_3,HAD CONSTANT LOWER BACK PAIN.
+,1,Related,LIPITOR.462,AFTER 2 MONTHS ON THIS DRUG I FELT AS IF I HAD AGED 20 YEARS.
+,181, 211,LIPITOR.462.txt,0.9812051,0,The text describes a physiological symptom (lower back pain) but does not explicitly state that it occurred after or during the use of Lipitor, nor does it imply causation by the drug. Therefore, it does not meet the criteria for a described Adverse Drug Event.
+LIPITOR.502_3,For the past 2 weeks I have had back ache (which I have experienced before),1,Related,Lipitor,Excessive gas another sympton which persists.
+,191, 266,LIPITOR.502.txt,0.9892791,0,The text indicates the back ache is a pre-existing or recurring symptom ('which I have experienced before'), not necessarily caused by the drug.
+LIPITOR.672_5,Joint pain is completly gone.
+,1,Related,Lipitor; lipitor,Took myself off the lipitor a year ago.
+,459, 489,LIPITOR.672.txt,0.92459834,0,The text states that 'Joint pain is completly gone', indicating the absence or resolution of a symptom, not its occurrence as a side effect caused by the drug. This falls under the 'Negation' rule for False Positives.
+ARTHROTEC.139_0,Lower Back Pain.
+,0,Not-Related,ARTHROTEC.139,,0, 17,ARTHROTEC.139.txt,0.9880008,0,ARTHROTEC (diclofenac/misoprostol) is an NSAID commonly prescribed for pain, including back pain associated with conditions like osteoarthritis or rheumatoid arthritis. Without further context indicating the pain is new, worsened, or explicitly caused by the drug, 'Lower Back Pain' is likely the indication for which the drug was taken, not a side effect.
+ARTHROTEC.41_4,I've recently had this severe hip pain on both sides which the co codamol wasn't touching so I went back to the Dr,0,Not-Related,co codamol; co-codamol; cortozone injections,I've taken co-codamol for my fibromyalgia for many years which I have very few side effects with.
+,380, 494,ARTHROTEC.41.txt,0.9192954,0,The severe hip pain is the indication for which co-codamol was taken, not a side effect caused by the drug. The text indicates the drug was ineffective for the pain.
+LIPITOR.508_8,I have constant pain, sometimes severe.
+,1,Related,Lipitor,I have no energy.
+,345, 385,LIPITOR.508.txt,0.9798666,0,The text describes a symptom (pain) but does not establish a causal or temporal relationship with the drug Lipitor. It does not state that the pain occurred after or during the use of Lipitor, nor does it attribute the pain to the drug.
+LIPITOR.640_3,After I got out of hospital I have trouble doing anything like I was doing.
+,0,Not-Related,lipitor,I thought I was going to die for 2 days and nights.
+,169, 245,LIPITOR.640.txt,0.95708793,0,The text describes a general decline in functional ability after a hospital stay, but it does not mention Lipitor or establish any causal link between Lipitor and the described symptom.
+LIPITOR.325_6,Pain diminishes throughout the day.
+,1,Related,Fosamax 35,Early in the day I move like someone much older.
+,428, 464,LIPITOR.325.txt,0.70855606,0,The text describes the course of a symptom ('Pain diminishes throughout the day') but does not attribute the pain itself to the drug Fosamax 35, nor does it describe the diminishing of pain as an adverse event. There is no indication of causation by the drug.
+LIPITOR.134_4,- Headache that lasts for days.
+,1,Related,CoQ10; ezetimibe; lovastatin,- Numbness in mouth.
+,186, 218,LIPITOR.134.txt,0.9885411,0,The text describes a physiological issue (headache) but does not explicitly state or imply that it occurred after or during the use of the drug, nor does it attribute causation to the drug, which is required by Rule 2 and exemplified by the provided 'YES' example.
+LIPITOR.121_6,Fatigue and laziness is gone and afternoon energy levels are high (as indicated by no yawning!).
+,1,Related,LIPITOR.121,Will retest (out of pocket) in a few months to see if my numbers improve.
+,496, 593,LIPITOR.121.txt,0.9913351,0,The text describes the *absence* of negative symptoms (fatigue, laziness, yawning) and the *presence* of positive effects (high energy levels), indicating an improvement or lack of adverse events, not a side effect caused by the drug.
+LIPITOR.387_3,It is a bad feeling walking around thinking you've got a tumor behind your eye!.
+,0,Not-Related,LIPITOR.387,Wokred great at lowering cholesterol from 276 to 194 but at what price?
+,288, 369,LIPITOR.387.txt,0.9313472,0,The text describes a 'bad feeling' and a thought ('thinking you've got a tumor behind your eye!'), which is a mental state. However, it does not explicitly link this feeling or thought as being caused by or occurring during the use of LIPITOR.387. There is no causal attribution to the drug.
+LIPITOR.757_5,I am depressed because of the pain, I can't do what I want to do, I have headaches and can't go to work.
+,1,Related,Lipitor; lipitor,The pain has not subsided.
+,335, 440,LIPITOR.757.txt,0.9911678,0,The text describes symptoms (depression, pain, headaches) but does not establish a causal or temporal relationship with Lipitor. It does not state that these symptoms were caused by or occurred after taking Lipitor.
+ARTHROTEC.8_2,Still can't sleep, can't work without pain.
+,0,Not-Related,ARTHROTEC.8,Didn't work for me.
+,131, 175,ARTHROTEC.8.txt,0.97729254,0,The text describes the persistence of symptoms (pain, inability to sleep/work) that ARTHROTEC.8 is intended to treat, indicating a lack of efficacy rather than a new adverse event caused by the drug.
+LIPITOR.409_3,I had my blood work and the cholesterol is 291.
+,0,Not-Related,LIPITOR.409,My Cholesterol went up after a couple day without it.
+,101, 149,LIPITOR.409.txt,0.7240167,0,High cholesterol (291) is the indication for which Lipitor is prescribed, not a side effect of the drug. Lipitor is used to lower cholesterol.
+ARTHROTEC.20_0,I was experiencing lower back pain & noticed my spouse had some arthrotec 50mg anti inflammatory pills left.
+,0,Not-Related,arthrotec,,0, 109,ARTHROTEC.20.txt,0.78838706,0,The text indicates the lower back pain was a pre-existing condition and likely the reason the user noticed the anti-inflammatory drug, not a side effect caused by it.
+LIPITOR.222_6,could be causing me all this pain,3 different doctors said NO.
+,0,Not-Related,Lipitor; Tricor; lipitor,I have asked my doctors more then once if any of my meds.,464, 527,LIPITOR.222.txt,0.89470214,0,The text describes a suspicion of pain being caused by the drug, but explicitly states that '3 different doctors said NO', negating the causal link to the drug.
+LIPITOR.236_9,The pain in my arms interrupts my sleep.
+,1,Related,CoQ; lipitor; vitamin C,Even a simple pass causes significant pain.
+,445, 486,LIPITOR.236.txt,0.9897127,0,The text describes a physiological symptom (arm pain, sleep interruption) but does not explicitly or implicitly link it to the use of the drugs (CoQ, Lipitor, Vitamin C) or state that it occurred after or during their use. It does not describe a side effect *caused by* the drug.
+LIPITOR.168_14,I went to my accupuncturist and was told my chee was dry.
+,0,Not-Related,lipitor,At the time I attributed it to male menopause-being around 54.
+,1027, 1085,LIPITOR.168.txt,0.96848315,0,The text describes an observation made by an acupuncturist using Traditional Chinese Medicine terminology ('chee was dry'), not a direct physiological symptom or adverse event explicitly linked to Lipitor.
+LIPITOR.800_4,I rarely get headaches.
+,0,Not-Related,Lipitor,Poor concentration, noise intolerance.
+,149, 173,LIPITOR.800.txt,0.9869279,0,The text describes a general frequency of headaches for the individual ('I rarely get headaches') but does not state that a headache occurred while taking Lipitor, nor does it attribute any headache to Lipitor. There is no causal or temporal link to the drug.
+LIPITOR.800_9,Because so many people take Lipitor, and headaches, etc are so coommon, what we need is to show that there is an increased incidence of side effects like these compared to those not taking Lipitor, AND that the side effects go away once stopping it.
+,0,Not-Related,Lipitor,Not many here have posted follow-up.
+,441, 691,LIPITOR.800.txt,0.9472379,0,The text discusses the general concept of identifying side effects (like headaches) associated with Lipitor, rather than reporting a specific side effect experienced by an individual.
+LIPITOR.551_1,When the weather is hot we both get extreme headaches.
+,1,Related,LIPITOR.551,Both husband and wife on low dosage (10 mg)
+We are having extreme reactions to heat.
+,85, 140,LIPITOR.551.txt,0.99131656,0,The text attributes the headaches to hot weather and does not link them to the drug LIPITOR.551.
+LIPITOR.551_2,This happens with even slight temp changes/worse with high tems outside.
+,0,Not-Related,LIPITOR.551,When the weather is hot we both get extreme headaches.
+,140, 213,LIPITOR.551.txt,0.89285326,0,The text describes a trigger ('slight temp changes/worse with high tems outside') but does not specify a physiological issue or symptom ('This') that could be attributed as a side effect of the drug.
+LIPITOR.545_0,I had a chronic backache that kept getting worse.
+,1,Related,Lipitor,,0, 50,LIPITOR.545.txt,0.9749879,0,The text describes a 'chronic backache', which implies a pre-existing condition. It does not establish a temporal or causal link between the onset or worsening of the backache and the use of Lipitor.
+LIPITOR.545_3,so I accepted that and attributed the aches to simply getting old, (69 yrs).
+,0,Not-Related,Lipitor,The results indicated I have arthritis,168, 245,LIPITOR.545.txt,0.80161345,0,The user explicitly attributes the aches to 'simply getting old' and not to the drug. This indicates the symptom is not perceived as drug-induced.
+LIPITOR.545_7,As I got out of bed that morning I started getting severe muscle spasms in the same old place.
+,1,Related,Lipitor,After finishing my business, I hardly could sleep that night.
+,552, 647,LIPITOR.545.txt,0.9815138,0,The phrase 'in the same old place' suggests the muscle spasms are a pre-existing or recurring issue, not anew symptom caused by Lipitor.
+LIPITOR.547_1,My ordeal began with leg problems long before my bypass and any drugs were taken.
+,0,Not-Related,Atenolol; Lipitor; asprin,Does not appear to be giving me negative side effects.
+,55, 137,LIPITOR.547.txt,0.9814485,0,The text explicitly states that the leg problems began 'long before... any drugs were taken,' indicating the symptom pre-existed drug use.
+ARTHROTEC.27_2,I am in so much pain that I cannot sleep, nor can I take Advil for the pain as it is also an NSAID.
+,1,Related,Advil; Arthrotec; birth control pill,I am on the birth control pill and should not have my period for another 3 weeks.
+,173, 273,ARTHROTEC.27.txt,0.95633477,0,The text describes pain as a pre-existing condition for which Advil would be taken, not a side effect caused by Advil. The inability to take Advil is due to it being an NSAID, implying a contraindication rather than an adverse event.
+LIPITOR.427_13,THE KNEE PAIN HAS GREATLY SUBSIDED AND I'M LESS FATIGUED.
+,1,Related,LIPITOR,HE TOLD ME TO STOP TAKING IT FOR 2 WEEKS,,,,I'VE BEEN OFF THE LIPITOR FOR 1 WEEK.
+,603, 661,LIPITOR.427.txt,0.78679895,0,The text describes the improvement or reduction of symptoms (knee pain, fatigue), not the occurrence or presence of a side effect caused by the drug. It does not attribute the original symptoms to Lipitor.
+LIPITOR.427_14,THE HEADACHES ARE GONE.
+,1,Related,LIPITOR,THE KNEE PAIN HAS GREATLY SUBSIDED AND I'M LESS FATIGUED.
+,661, 685,LIPITOR.427.txt,0.964887,0,The text states that headaches are 'gone,' indicating the absence or resolution of a symptom, not its occurrence as a side effect caused by the drug. This falls under the 'Negation' rule for false positives.
+LIPITOR.750_6,I awoke at 3AM with an a knee that was just throbbing with pain.
+,0,Not-Related,Advil; Lipitor; lipitor,My usual 20mg dose is taken with dinner, but I had forgotten to take it and remembered just before bedtime.
+,471, 536,LIPITOR.750.txt,0.975476,0,The text describes a physiological issue (throbbing knee pain) but does not establish any temporal or causal link to the mentioned drugs (Advil, Lipitor). It simply states the occurrence of the symptom without attributing it to drug use.

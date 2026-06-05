@@ -1,0 +1,41 @@
+id,text,label,label_text,meta_doc_drugs,meta_prev_context,span_offsets,source_file,hunter_prob,final_pred,agent_reasoning
+ARTHROTEC.17_1,i had to keep dropping into a crouched position due to the severity of the lower abdominal pain.
+,1,Related,Advil,just took the drug about 30 minutes ago and am now experiencing the worst abdominal pain ever, like mentstrual cramps/diarreah cramping combined.
+,146, 243,ARTHROTEC.17.txt,0.27392828,1,The text describes a severe physiological issue (lower abdominal pain) which is a known gastrointestinal side effect of Advil (ibuprofen), an NSAID. There is no indication that this pain was the reason for taking the drug, pre-existing, or negated.
+ARTHROTEC.17_2,i was put on this medication because i was taking such high doses of Advil to quell the inflammation in my neck and back muscles that it caused me to have a GI bleed.
+,1,Related,Advil,i had to keep dropping into a crouched position due to the severity of the lower abdominal pain.
+,243, 410,ARTHROTEC.17.txt,0.23899078,1,The text explicitly states that taking high doses of Advil 'caused me to have a GI bleed,' indicating a physiological issue directly resulting from the drug's use.
+VOLTAREN.8_1,My entire body was "shutting" down.
+,1,Related,Voltaren,Horrific medication - Suffered an acute pancreatic attack with critical blood levels that almost caused my death.
+,114, 150,VOLTAREN.8.txt,0.3326176,1,The text describes a severe physiological dysfunction ('entire body was "shutting" down') which is a potential adverse effect, not an indication for Voltaren, and is not negated or pre-existing.
+LIPITOR.708_0,I went from a vigorous woman who two years ago spent two weeks walking all over London and Paris, whose favorite hobby was hiking, etc , to a fragile, crippled crone who, for a while, was certain I belonged in a wheel chair, due to the effects of this horrible, killer medication after having hip replacement surgery.
+,1,Related,Lipitor,,0, 318,LIPITOR.708.txt,0.23255287,1,The text describes severe physical decline and dysfunction ('fragile, crippled crone', 'belonged in a wheel chair') which the user explicitly attributes to 'this horrible, killer medication' (Lipitor in this context).
+LIPITOR.655_1,This side effect makes you feel like you are constantly wearing heavy socks and gloves.
+,1,Related,LIPITOR.655,Peripheral Neuropathy.
+,23, 111,LIPITOR.655.txt,0.25315043,1,The text describes a physiological sensory symptom ('feeling like constantly wearing heavy socks and gloves') and explicitly labels it as a 'side effect,' implying it occurred during or after drug use.
+LIPITOR.709_1,it lowered my cholesterol but not sure it's worth the pain.
+,1,Related,provacal,feelings of fatigue,muscle and joint pain,insomnia.
+,52, 112,LIPITOR.709.txt,0.25317067,1,The text describes 'pain' as a negative physiological issue experienced during or after taking the drug, implying it is an adverse effect despite the drug's intended benefit.
+DICLOFENAC-SODIUM.7_5,It can kill you: post operatively I suffered bleeding, peritonitis, septicaemia,renal and respiratory failure.
+,1,Related,DICLOFENAC-SODIUM.7,It did help my arthritis, but in my opinion the possibility of side effects was not taken very seriously.
+,331, 442,DICLOFENAC-SODIUM.7.txt,0.3637541,1,The text describes severe physiological issues (bleeding, peritonitis, septicaemia, renal and respiratory failure) that occurred post-operatively, implying a causal link to the drug, which is consistent with known potential adverse effects of DICLOFENAC-SODIUM.
+LIPITOR.690_1,I FELT LIKE I HAD BEEN RUN OVER BY A TRUCK ALL THE TIME.
+,1,Related,B-12; B-6; FOLIC ACID; LIPITOR,I HURT EVERY WHERE.
+,20, 77,LIPITOR.690.txt,0.31935766,1,The text describes a physiological issue ('felt like I had been run over by a truck' implying extreme fatigue/malaise/body aches) which is a potential adverse effect and not an indication for the listed drugs.
+LIPITOR.690_5,THOUGH I WAS GOING TO DIE.
+,1,Related,B-12; B-6; FOLIC ACID; LIPITOR,I REALLY,142, 169,LIPITOR.690.txt,0.2852459,1,The text describes a severe mental/emotional state ('THOUGH I WAS GOING TO DIE') which is a physiological/psychological issue and a potential adverse event.
+ARTHROTEC.143_4,I then spent the night back in the ER for the severe pain.
+,1,Related,arthrotec; tylenol #3,I had spent the day there already for my shoulder pain, was given a prescription and never told of these side effects.
+,335, 394,ARTHROTEC.143.txt,0.22276156,1,The text describes 'severe pain' requiring an ER visit, which is a physiological issue occurring in thecontext of drug use. This could represent a worsening of the underlying condition, a lack of efficacy, or a new adverse event.
+LIPITOR.780_4,Up until the start of this drug I felt that I was as young as I was in my twenties and wondered if this is how you might start feeling the affects of age, by waking up one morning and feeling all that age caught up with you and now you were older than your years.
+,1,Related,Lipitor; Zetia,The next day, after starting this drug, I suddenly felt like I had aged to eighty years old overnight but did not connect it to starting Lipitor.
+,384, 648,LIPITOR.780.txt,0.3985885,1,The text describes a sudden onset of feeling aged and older than one's years, which is a physiological/mental state, occurring after the start of the drug. This is not an indication for the drug and was not pre-existing.
+LIPITOR.780_15,I immediately went off the drug but a year later I am still have the same eighty years old feeling and do not know that I will ever be normal again.
+,1,Related,Lipitor; Zetia,and I never read those warnings so this was not a head thing.
+,1637, 1786,LIPITOR.780.txt,0.2803472,1,The text describes a persistent physiological issue ('eighty years old feeling') that the user attributes to the drug, implying it started during or immediately after drug use.
+LIPITOR.75_2,I was at a local club about 2 months later walked into the toilet I'd been in there many times before but this I couldn't work out witch door to walk out(I think it also has an effect on your memory).
+,1,Related,Ezetrol; lipitor,So I bought a new pair from the chemist they didn't stop the pain either.
+,212, 413,LIPITOR.75.txt,0.38235638,1,The text describes a new onset of confusion and memory issues ('couldn't work out which door to walk out','I think it also has an effect on your memory') which the user attributes to the drug, occurring 'about 2 months later', indicating a temporal relationship.
+LIPITOR.750_9,I will never take lipitor before bed again, I may cut the daily dose in half and possibly stop altogether if the pain persists at an intolerable level.
+,1,Related,Advil; Lipitor; lipitor,I awoke this morning with about a 50% reduction in pain and it seems to have subsided as the day goes on.
+,752, 904,LIPITOR.750.txt,0.3739405,1,The text describes 'pain' at an 'intolerable level' which the user attributes to 'lipitor', leading them to consider stopping or reducing the drug. This indicates a physiological issue occurring during drug use.
